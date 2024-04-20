@@ -24,6 +24,7 @@
     display: flex;
     list-style: none;
     gap: 15px;
+    flex-wrap: wrap;
 }
 
 .link a{
@@ -40,6 +41,8 @@
     background-color: #4e6a58;
 
 }
+
+
 
 
 /* 
