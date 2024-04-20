@@ -6,59 +6,71 @@
     box-sizing: border-box;
 }
 
+#topo{
+    display:flex
+}
+    display:flex;
+    
+}
+
+/* 
 #cabecalho{
 
     /* font-family: "Roboto",sans-serif;
-    font-weight: 500; */
+    font-weight: 500; 
     font-family: 'Times New Roman', Times, serif;
 
-}
+/* }
 
 
 .box{
-    min-height: 100px;
+    height: 50px;
     width: 100px;
     color: #fff;
 }
 
 .box1{
     background-color: blue;
-    flex-grow: 1;
+  
 }
 
 .box2{
     background-color: green;
-    flex-grow: 2;
+    
 }
 
 .box3{
     background-color: red;
-    flex-grow: 1;
+    
 }
 
 .box4{
     background-color: yellow;
-    flex-grow: 3;
+    
 }
 .box5{
     background-color: pink;
-    flex-grow: 3;
+    
 }
 .box6{
     background-color: orange;
-    flex-grow: 1;
+   
 }
 .box7{
     background-color: black;
-    flex-grow: 2;
+    
 }
 .box8{
     background-color: maroon;
-    flex-grow: 4;
+    
 }
 .container{
     display: flex;
+    background-color: blueviolet;
+    height: 800px;
+    width: 100%;
+    min-width: 110px;
     flex-wrap: wrap;
-    flex-direction: row;
-
+    align-content: space-between;
 }
+  */
