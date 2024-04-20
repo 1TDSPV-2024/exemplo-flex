@@ -7,11 +7,40 @@
 }
 
 #topo{
-    display:flex
-}
     display:flex;
-    
+    background-color: #181616;
+    height: 100px;
+    flex-wrap: wrap;
+    padding: 20px;
+    justify-content: space-between;
+    align-items: center;
 }
+
+#topo h1{
+    color: #fff;
+}
+
+#topo nav ul{
+    display: flex;
+    list-style: none;
+    gap: 15px;
+}
+
+.link a{
+    text-decoration: none;
+    color: #fff;
+    display: block;
+    padding: 15px;
+    background-color: #1d2e23;
+    border-radius: 5px;
+    transition: all .4s ease-in-out;
+}
+
+.link a:hover{
+    background-color: #4e6a58;
+
+}
+
 
 /* 
 #cabecalho{
